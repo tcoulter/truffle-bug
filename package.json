@@ -6,10 +6,10 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "truffle": "^4.1.15"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
