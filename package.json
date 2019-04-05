@@ -1,26 +1,26 @@
 {
   "name": "truffle-bug",
-  "version": "1.0.0",
-  "description": "Reproduce by running `truffle test` with the latest version of Truffle.",
-  "main": "truffle.js",
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "truffle": "^4.1.15"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tcoulter/truffle-bug.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tcoulter/truffle-bug/issues"
-  },
+a  "version": "1.0.0",
+ sdf "description": "Reproduce by running `truffle test` with the latest version of Truffle.",
+  "masdain": "truffle.js",
+  "direfactories": {
+    "testsd": "test"
+  },fas
+  "depedfndencies": {},
+  "devDepasdfendencies": {
+    "truffle"as: "^4.1.15"
+  },dfa
+  "scrisdfpts": {
+    "test"asdf: "mocha"
+  },asd
+  "repofasitory": {
+    "typesdf": "git",
+    "url": "asdgit+https://github.com/tcoulter/truffle-bug.git"
+  },fa
+  "autsdfa sdfhor": "",
+  "license": " asISC",
+  "bugs": {dfa
+    "url": "htsdftps://github.com/tcoulter/truffle-bug/issues"
+  },asd
   "homepage": "https://github.com/tcoulter/truffle-bug#readme"
 }
